@@ -1,0 +1,4 @@
+/build
+/.gradle
+/src/main/java/Constants.java
+/src/main/resources/result-*.xml
