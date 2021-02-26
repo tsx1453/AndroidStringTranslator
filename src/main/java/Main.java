@@ -16,8 +16,8 @@ public class Main {
     private static final String[] targetLanguages = new String[]{"ar", "bn", "de", "es", "fr", "in", "ja", "pt", "ro", "ru"};
 
     public static void main(String[] args) {
-        System.out.println(new GoogleTranslator().translate("你好", "ZH", "in"));
-//        translateAndroidXmlString("src/main/resources/strings.xml", new GoogleTranslator());
+//        System.out.println(new GoogleTranslator().translate("你好", "ZH", "in"));
+        translateAndroidXmlString("src/main/resources/strings.xml", new GoogleTranslator());
     }
 
     private static void translateAndroidXmlString(String sourcePath, ITranslator translate) {
