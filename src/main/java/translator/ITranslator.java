@@ -1,3 +1,5 @@
+package translator;
+
 /**
  * @author: tianshuxin
  * @time: 2021 - 2021/2/5 - 11:16 上午

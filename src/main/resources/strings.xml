@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,TypographyDashes">
-    <string name="app_analyze_tip">There are <b>%1$d</b> apps in your phone, click to <b>Analyze</b></string>
-    <string name="string_keep_left">Keep left</string>
-    <string name="string_keep_right">Keep right</string>
-    <string name="docker_recent_apps_summary">Show recently used apps on the docker</string>
-    <string name="docker_recent_app_count">Number of recent app</string>
-    <string name="app_analyze_entrance_keep_dialog_title">Keep this entrance?</string>
-    <string name="app_analyze_entrance_keep_dialog_message">You can also find this feature in the toolbox</string>
-    <string name="string_keep">Keep</string>
-    <string name="string_dont_keep">Not keep</string>
+    <string name="test">Test string for write to project</string>
 </resources>

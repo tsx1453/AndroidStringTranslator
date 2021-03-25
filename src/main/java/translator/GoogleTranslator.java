@@ -1,7 +1,10 @@
+package translator;
+
 import com.google.cloud.translate.Language;
 import com.google.cloud.translate.Translate;
 import com.google.cloud.translate.TranslateOptions;
 import com.google.cloud.translate.Translation;
+import config.Constants;
 
 import java.util.List;
 import java.util.function.Predicate;
